@@ -20,5 +20,8 @@ then press ENTER. Let it do it's thing.
 Put the python file in a empty folder to make it easy. Your screenshots will be saved here.
 Start up Powershell. Navigate to the directory with the .py file. You navigate terminal by using CD (change directory) commands. 
 Use the command "python ebook_screenshot.py" 
+
+OR SIMPLY double click the .py script LOLZ
+
 This will start the program up. Just follow the simple questions. 
 A folder in the directory with your python script will automatically be created and all the screenshots will be in there.
