@@ -1,4 +1,4 @@
-**Welcome to me automatic screenshot and .PDF tool. This tool was built to screenshot many pages of a ebook automatically and then make a PDF out of it. **
+**Welcome to me automatic screenshot and .PDF tool. This tool was built to screenshot all of the pages of a ebook automatically and then make a PDF out of it. **
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PART 1 - Do this part first**
 
@@ -28,4 +28,4 @@ A folder in the directory with your python script will automatically be created 
 
 **PART 3 - Now the program will make a .pdf if you want**
 
-The program will ask if you want to create a .PDF of the screenshots (in the order they were taken), what the .PDF file name should be, and also if you want to delete the folder with the screenshots.
+The program will ask if you want to create a .PDF of the screenshots (in the order they were taken), what the .PDF file name should be, and also, if you want to delete the folder with the screenshots.
