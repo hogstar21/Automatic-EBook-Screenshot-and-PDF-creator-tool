@@ -1,4 +1,4 @@
-**Welcome to me automatic screenshot and .PDF tool. This tool was built to screenshot many pages of a ebook automatically. **
+**Welcome to me automatic screenshot and .PDF tool. This tool was built to screenshot many pages of a ebook automatically and then make a PDF out of it. **
 --------------------------------------------------------------------------------------------------------------------------------------------------------------
 **PART 1 - Do this part first**
 
